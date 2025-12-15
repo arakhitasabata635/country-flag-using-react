@@ -4,13 +4,11 @@ A simple and interactive **React application** that displays country flags along
 
 ## 🚀 Live Demo
 
-
-
 ---
 
 ## 📌 Features
 
-- 🌍 Fetches country data from a public API  
+- 🌍 Fetches country data from a public API
 - 🏳️ Displays **country flags and names**
 - 🔍 Search functionality to filter countries
 - ⚛️ Built with **React functional components**
@@ -42,20 +40,14 @@ country-flag-using-react/
 
 ### 1️⃣ Clone the repository
 
-```bash
 git clone https://github.com/arakhitasabata635/country-flag-using-react.git
-
 npm install
 npm run dev
 
 ## 🧠 What I Learned
 
-Working with React components & props 
-
+Working with React components & props
 Fetching and handling API data
-
 Rendering lists dynamically in React
-
 Managing UI state
-
 Building responsive layouts
